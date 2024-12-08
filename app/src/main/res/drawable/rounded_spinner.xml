@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_spinner.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/>  <!-- Background color of the Spinner -->
+    <corners android:radius="12dp"/>  <!-- Curved corners (radius controls the curve) -->
+</shape>

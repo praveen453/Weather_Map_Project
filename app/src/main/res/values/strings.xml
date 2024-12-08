@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="select_city">Select a City</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="weather_info_placeholder">Weather Information Will Appear Here</string>
+    <string name="copyright_2024_all_rights_reserved">copyright © 2024 all rights reserved</string>
+    <string name="weathermap">WeatherMap</string>
+    <string name="city_dropdown">City Dropdown</string>
+    <string name="weather_information">Weather Information</string>
+</resources>
